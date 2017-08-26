@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings.png",
+        "source": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_circle.png",
+        "source": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\drawable-mdpi\\ic_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search.png",
+        "source": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_alert.png",
+        "source": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\drawable-mdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_house.png",
+        "source": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\drawable-mdpi\\ic_house.png"
+    }
+]
