@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -1396,7 +1396,7 @@
                     "endOffset": 6275
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1415,7 +1415,7 @@
                     "endOffset": 6322
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1434,7 +1434,7 @@
                     "endOffset": 6373
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1776,7 +1776,7 @@
                     "endOffset": 7610
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1795,7 +1795,7 @@
                     "endOffset": 7655
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6203,7 +6203,7 @@
                     "endOffset": 58713
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -6510,7 +6510,7 @@
                     "endOffset": 60961
                 },
                 "from": {
-                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Basketag2\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\marrai1\\AndroidStudioProjects\\Instapp\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
